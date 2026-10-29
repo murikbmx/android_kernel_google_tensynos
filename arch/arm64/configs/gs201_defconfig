@@ -850,3 +850,5 @@ CONFIG_KSU=y
 CONFIG_KSU_SUSFS=y
 # Required for the KernelSU-Next preinit runner (usr/include)
 CONFIG_HEADERS_INSTALL=y
+# NoMount
+CONFIG_NOMOUNT=y
